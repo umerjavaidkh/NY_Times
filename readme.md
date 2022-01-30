@@ -31,5 +31,7 @@ A simple app to hit the NY Times Most Popular Articles API and show a list of ar
 6. DataBinding: https://developer.android.com/topic/libraries/data-binding
 
 
-## Run ./gradlew createDebugCoverageReport command for test cases and coverage report
+## Run below command for test cases and coverage report in teminal.
+
+./gradlew createDebugCoverageReport
 
