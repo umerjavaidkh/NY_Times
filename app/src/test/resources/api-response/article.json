@@ -1,0 +1,1302 @@
+{
+  "status":"OK",
+  "copyright":"Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results":20,
+  "results":[
+    {
+      "uri":"nyt://article/8e770b94-1811-563a-9e8b-0e5c682b345f",
+      "url":"https://www.nytimes.com/2022/01/26/style/amy-schneider-jeopardy.html",
+      "id":100000008164168,
+      "asset_id":100000008164168,
+      "source":"New York Times",
+      "published_date":"2022-01-26",
+      "updated":"2022-01-27 16:03:35",
+      "section":"Style",
+      "subsection":"",
+      "nytdsection":"style",
+      "adx_keywords":"Game Shows;Content Type: Personal Profile;Women and Girls;Transgender and Transsexuals;Records and Achievements;Schneider, Amy (1979- )",
+      "column":null,
+      "byline":"By Shane O’Neill",
+      "type":"Article",
+      "title":"‘Jeopardy!’ Hasn’t Had a Player Like Amy Schneider",
+      "abstract":"The most successful woman to compete on the show can finally celebrate her 40-day winning streak. And the money.",
+      "des_facet":[
+        "Game Shows",
+        "Content Type: Personal Profile",
+        "Women and Girls",
+        "Transgender and Transsexuals",
+        "Records and Achievements"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+        "Schneider, Amy (1979- )"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Amy Schneider, a software engineer from Oakland, became the winningest woman to appear on “Jeopardy!” when her streak ended on Wednesday.",
+          "copyright":"Carolyn Fong for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/fashion/JEOPARDY-AMY1/JEOPARDY-AMY1-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/fashion/JEOPARDY-AMY1/JEOPARDY-AMY1-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/fashion/JEOPARDY-AMY1/JEOPARDY-AMY1-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/b7d25967-d8df-5c35-a823-a319dc78486f",
+      "url":"https://www.nytimes.com/2022/01/25/health/long-covid-risk-factors.html",
+      "id":100000008175117,
+      "asset_id":100000008175117,
+      "source":"New York Times",
+      "published_date":"2022-01-25",
+      "updated":"2022-01-29 23:57:31",
+      "section":"Health",
+      "subsection":"",
+      "nytdsection":"health",
+      "adx_keywords":"Chronic Condition (Health);Research;Coronavirus (2019-nCoV);Coronavirus Risks and Safety Concerns;Antibodies;Cell (Journal)",
+      "column":null,
+      "byline":"By Pam Belluck",
+      "type":"Article",
+      "title":"New Research Hints at 4 Factors That May Increase Chances of Long Covid",
+      "abstract":"If further study confirms the findings, they could lead to ways to prevent and treat the complex condition.",
+      "des_facet":[
+        "Chronic Condition (Health)",
+        "Research",
+        "Coronavirus (2019-nCoV)",
+        "Coronavirus Risks and Safety Concerns",
+        "Antibodies"
+      ],
+      "org_facet":[
+        "Cell (Journal)"
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"John Gillotte was infected with Covid in March 2020 when he was living in Seattle. He was hospitalized and on a ventilator for several days and experienced long Covid symptoms that lasted for months.",
+          "copyright":"Joshua Bright for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/30/science/25virus-longcovid-predictors1/25virus-longcovid-predictors1-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/30/science/25virus-longcovid-predictors1/25virus-longcovid-predictors1-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/30/science/25virus-longcovid-predictors1/25virus-longcovid-predictors1-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/82d027fe-fce5-5693-84fc-5cb99fca71a0",
+      "url":"https://www.nytimes.com/2022/01/23/us/politics/biden-troops-nato-ukraine.html",
+      "id":100000008171836,
+      "asset_id":100000008171836,
+      "source":"New York Times",
+      "published_date":"2022-01-23",
+      "updated":"2022-01-24 10:38:50",
+      "section":"U.S.",
+      "subsection":"Politics",
+      "nytdsection":"u.s.",
+      "adx_keywords":"United States Defense and Military Forces;United States International Relations;United States Politics and Government;Defense and Military Forces;War and Armed Conflicts;Biden, Joseph R Jr;Putin, Vladimir V;Defense Department;North Atlantic Treaty Organization;Ukraine;Russia",
+      "column":null,
+      "byline":"By Helene Cooper and Eric Schmitt",
+      "type":"Article",
+      "title":"Biden Weighs Deploying Thousands of Troops to Eastern Europe and Baltics",
+      "abstract":"The president is also considering deploying warships and aircraft to NATO allies, in what would be a major shift from its restrained stance on Ukraine.",
+      "des_facet":[
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Defense and Military Forces",
+        "War and Armed Conflicts"
+      ],
+      "org_facet":[
+        "Defense Department",
+        "North Atlantic Treaty Organization"
+      ],
+      "per_facet":[
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet":[
+        "Ukraine",
+        "Russia"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"U.S. soldiers of the NATO Extended Presence Battlegroup participated in a military exercise in Latvia last March.",
+          "copyright":"Valda Kalnina/EPA, via Shutterstock",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-military-top/23dc-military-top-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-military-top/23dc-military-top-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-military-top/23dc-military-top-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/6275d842-5c90-560c-9e2a-a42d760dc46a",
+      "url":"https://www.nytimes.com/2022/01/23/us/politics/jan-6-investigator-fired-university-of-virginia.html",
+      "id":100000008172294,
+      "asset_id":100000008172294,
+      "source":"New York Times",
+      "published_date":"2022-01-23",
+      "updated":"2022-01-24 09:39:33",
+      "section":"U.S.",
+      "subsection":"Politics",
+      "nytdsection":"u.s.",
+      "adx_keywords":"United States Politics and Government;Storming of the US Capitol (Jan, 2021);Colleges and Universities;University of Virginia;Charlottesville (Va)",
+      "column":null,
+      "byline":"By Michael S. Schmidt",
+      "type":"Article",
+      "title":"Top Jan. 6 Investigator Fired From Post at the University of Virginia",
+      "abstract":"Democrats in Virginia denounced the action as a partisan move aimed at helping former President Donald J. Trump undercut the investigation of the Capitol riot.",
+      "des_facet":[
+        "United States Politics and Government",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Colleges and Universities"
+      ],
+      "org_facet":[
+        "University of Virginia"
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+        "Charlottesville (Va)"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Timothy Heaphy, a Democrat who has made political donations to Hillary Clinton and Joseph R. Biden Jr., had been the top lawyer at the University of Virginia since 2018.",
+          "copyright":"Christopher Gregory for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-investigate-top/23dc-investigate-top-thumbStandard-v2.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-investigate-top/23dc-investigate-top-mediumThreeByTwo210-v2.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/23/multimedia/23dc-investigate-top/23dc-investigate-top-mediumThreeByTwo440-v2.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/9f7acb51-369e-519f-8644-de5400654eb5",
+      "url":"https://www.nytimes.com/2022/01/24/well/eat/brain-food.html",
+      "id":100000008166382,
+      "asset_id":100000008166382,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-25 15:58:48",
+      "section":"Well",
+      "subsection":"Eat",
+      "nytdsection":"well",
+      "adx_keywords":"Content Type: Service;Anxiety and Stress;Food;Mental Health and Disorders;Diet and Nutrition;Depression (Mental);Brain;Serotonin (Chemical);Research",
+      "column":null,
+      "byline":"By Tara Parker-Pope",
+      "type":"Article",
+      "title":"The Best Brain Foods You’re Not Eating",
+      "abstract":"For this week’s Eat Well Challenge, try some new foods that have been linked with improving your mood.",
+      "des_facet":[
+        "Content Type: Service",
+        "Anxiety and Stress",
+        "Food",
+        "Mental Health and Disorders",
+        "Diet and Nutrition",
+        "Depression (Mental)",
+        "Brain",
+        "Serotonin (Chemical)",
+        "Research"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"Photo Illustration by Andrew B. Myers for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/multimedia/24well-eatwell-mindful/24well-eatwell-mindful-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/multimedia/24well-eatwell-mindful/24well-eatwell-mindful-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/multimedia/24well-eatwell-mindful/24well-eatwell-mindful-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/0f8f8901-ef58-514a-92ae-3c971b2e5c09",
+      "url":"https://www.nytimes.com/2022/01/25/us/boat-capsized-florida.html",
+      "id":100000008175081,
+      "asset_id":100000008175081,
+      "source":"New York Times",
+      "published_date":"2022-01-25",
+      "updated":"2022-01-26 10:55:30",
+      "section":"U.S.",
+      "subsection":"",
+      "nytdsection":"u.s.",
+      "adx_keywords":"Rescues;Smuggling;Human Trafficking;Illegal Immigration;Maritime Accidents and Safety;Boats and Boating;United States Coast Guard;Bimini (Bahamas);Fort Pierce (Fla);Florida",
+      "column":null,
+      "byline":"By Maria Cramer",
+      "type":"Article",
+      "title":"Dozens Are Reported Missing After Boat Capsizes Off Florida Coast",
+      "abstract":"The boat, which left the Bahamas on Saturday with 40 people on board, was most likely part of a “human smuggling venture,” the Coast Guard said. One passenger was rescued.",
+      "des_facet":[
+        "Rescues",
+        "Smuggling",
+        "Human Trafficking",
+        "Illegal Immigration",
+        "Maritime Accidents and Safety",
+        "Boats and Boating"
+      ],
+      "org_facet":[
+        "United States Coast Guard"
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+        "Bimini (Bahamas)",
+        "Fort Pierce (Fla)",
+        "Florida"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"A man was rescued after he was found straddling the hull of a boat that capsized off Florida’s Atlantic coast, the U.S. Coast Guard said.",
+          "copyright":"U.S. Embassy Nassau",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/lens/25xp-capsize-photo/25xp-capsize-photo-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/lens/25xp-capsize-photo/25xp-capsize-photo-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/lens/25xp-capsize-photo/25xp-capsize-photo-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/58c41aad-7e78-5eff-8249-9274bbeec18e",
+      "url":"https://www.nytimes.com/2022/01/26/arts/music/spotify-neil-young-joe-rogan.html",
+      "id":100000008177291,
+      "asset_id":100000008177291,
+      "source":"New York Times",
+      "published_date":"2022-01-26",
+      "updated":"2022-01-29 09:12:03",
+      "section":"Arts",
+      "subsection":"Music",
+      "nytdsection":"arts",
+      "adx_keywords":"Pop and Rock Music;Audio Recordings, Downloads and Streaming;Podcasts;Rumors and Misinformation;Coronavirus (2019-nCoV);Vaccination and Immunization;Computers and the Internet;Young, Neil;Rogan, Joe;Spotify;Warner Music Group",
+      "column":null,
+      "byline":"By Ben Sisario",
+      "type":"Article",
+      "title":"Spotify Is Removing Neil Young Songs After He Complains of ‘Misinformation’",
+      "abstract":"The singer decided to leave the streaming service because it gives a platform to Joe Rogan, whom scientists have accused of promoting falsehoods about coronavirus vaccines.",
+      "des_facet":[
+        "Pop and Rock Music",
+        "Audio Recordings, Downloads and Streaming",
+        "Podcasts",
+        "Rumors and Misinformation",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Computers and the Internet"
+      ],
+      "org_facet":[
+        "Spotify",
+        "Warner Music Group"
+      ],
+      "per_facet":[
+        "Young, Neil",
+        "Rogan, Joe"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Neil Young, left, moved to take his music off of Spotify after complaining that it gave a platform to the podcaster Joe Rogan, right, who has been dismissive of coronavirus vaccines. ",
+          "copyright":"Associated Press",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/28/multimedia/26arts-briefing-neil-young/26arts-briefing-neil-young-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/28/multimedia/26arts-briefing-neil-young/26arts-briefing-neil-young-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/28/multimedia/26arts-briefing-neil-young/26arts-briefing-neil-young-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/d7c9656c-244b-51a0-aa96-53bb6485f3ea",
+      "url":"https://www.nytimes.com/2022/01/03/technology/wordle-word-game-creator.html",
+      "id":100000008143465,
+      "asset_id":100000008143465,
+      "source":"New York Times",
+      "published_date":"2022-01-03",
+      "updated":"2022-01-20 08:03:52",
+      "section":"Technology",
+      "subsection":"",
+      "nytdsection":"technology",
+      "adx_keywords":"Computer and Video Games;Spelling;Crossword Puzzles;Wardle, Josh;Reddit Inc",
+      "column":null,
+      "byline":"By Daniel Victor",
+      "type":"Article",
+      "title":"Wordle Is a Love Story",
+      "abstract":"The word game has gone from dozens of players to hundreds of thousands in a few months. It was created by a software engineer in Brooklyn for his partner.",
+      "des_facet":[
+        "Computer and Video Games",
+        "Spelling",
+        "Crossword Puzzles"
+      ],
+      "org_facet":[
+        "Reddit Inc"
+      ],
+      "per_facet":[
+        "Wardle, Josh"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/06/multimedia/03xp-wordle/03xp-wordle-thumbStandard.png",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/06/multimedia/03xp-wordle/03xp-wordle-mediumThreeByTwo210.png",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/06/multimedia/03xp-wordle/03xp-wordle-mediumThreeByTwo440.png",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/0c3ea255-6ab4-5e8c-9d45-bb8d65c54ab2",
+      "url":"https://www.nytimes.com/2022/01/22/world/europe/piel-island-uk.html",
+      "id":100000008078671,
+      "asset_id":100000008078671,
+      "source":"New York Times",
+      "published_date":"2022-01-22",
+      "updated":"2022-01-24 13:42:57",
+      "section":"World",
+      "subsection":"Europe",
+      "nytdsection":"world",
+      "adx_keywords":"Landlords;Historic Buildings and Sites;Palaces and Castles;Bars and Nightclubs;Piel Island (England);England",
+      "column":null,
+      "byline":"By Alan Yuhas",
+      "type":"Article",
+      "title":"English Island Seeks a Landlord-King Who Likes Solitude, Seals and Beer",
+      "abstract":"On Piel Island, winters are wet, travel is limited, and the solitary pub crowns the landlord king or queen under a shower of beer.",
+      "des_facet":[
+        "Landlords",
+        "Historic Buildings and Sites",
+        "Palaces and Castles",
+        "Bars and Nightclubs"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+        "Piel Island (England)",
+        "England"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"The Ship Inn and Piel Castle are the primary landmarks on Piel Island, off the northwestern coast of England. The local council is searching for a landlord to maintain the island and run the pub.",
+          "copyright":"Bruce Adams/Daily Mail/Shutterstock",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/18/multimedia/00xp-piel-01/00xp-piel-01-thumbStandard-v2.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/18/multimedia/00xp-piel-01/00xp-piel-01-mediumThreeByTwo210-v2.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/18/multimedia/00xp-piel-01/00xp-piel-01-mediumThreeByTwo440-v2.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/263ddd56-78df-5aea-ad0b-c46c43471ebf",
+      "url":"https://www.nytimes.com/2022/01/24/dining/sarah-palin-dines-indoors-nyc.html",
+      "id":100000008173145,
+      "asset_id":100000008173145,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-24 23:58:51",
+      "section":"Food",
+      "subsection":"",
+      "nytdsection":"food",
+      "adx_keywords":"Restaurants;Coronavirus (2019-nCoV);Vaccination and Immunization;Workplace Hazards and Violations;Palin, Sarah;Upper East Side (Manhattan, NY)",
+      "column":null,
+      "byline":"By Priya Krishna",
+      "type":"Article",
+      "title":"Sarah Palin, who is unvaccinated, recently dined indoors in New York City before testing positive.",
+      "abstract":"Elio’s, an Upper East Side celebrity haunt, confirms that it let her in despite a city requirement that all indoor guests show proof of vaccination. Ms. Palin tested positive for the coronavirus on Monday.",
+      "des_facet":[
+        "Restaurants",
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Workplace Hazards and Violations"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+        "Palin, Sarah"
+      ],
+      "geo_facet":[
+        "Upper East Side (Manhattan, NY)"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"An obituary for the founder of Elio’s described it as “an informal clubhouse for Manhattan’s social and media elite.”",
+          "copyright":"Robert Wright for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/dining/24palin-restaurant2/merlin_136287702_8823a7a2-4d39-487b-ae9d-7730eb998845-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/dining/24palin-restaurant2/merlin_136287702_8823a7a2-4d39-487b-ae9d-7730eb998845-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/dining/24palin-restaurant2/merlin_136287702_8823a7a2-4d39-487b-ae9d-7730eb998845-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/faa719ec-e011-5e40-b78d-2fe39cae87aa",
+      "url":"https://www.nytimes.com/2022/01/27/well/live/reusing-respirator-masks-covid.html",
+      "id":100000008179693,
+      "asset_id":100000008179693,
+      "source":"New York Times",
+      "published_date":"2022-01-27",
+      "updated":"2022-01-28 18:05:08",
+      "section":"Well",
+      "subsection":"Live",
+      "nytdsection":"well",
+      "adx_keywords":"Coronavirus Risks and Safety Concerns;Content Type: Service;Masks;Coronavirus (2019-nCoV);Medical Devices",
+      "column":null,
+      "byline":"By Tara Parker-Pope",
+      "type":"Article",
+      "title":"How Long Can I Keep Wearing the Same Respirator Mask?",
+      "abstract":"With the right care, your high-performance mask can last for multiple uses.",
+      "des_facet":[
+        "Coronavirus Risks and Safety Concerns",
+        "Content Type: Service",
+        "Masks",
+        "Coronavirus (2019-nCoV)",
+        "Medical Devices"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"Illustration by Delcan and Co.",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/well/27well-newsletter/27well-newsletter-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/well/27well-newsletter/27well-newsletter-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/27/well/27well-newsletter/27well-newsletter-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/3d152b52-3644-5717-be25-b38a81b26369",
+      "url":"https://www.nytimes.com/2022/01/19/well/exercise-timing.html",
+      "id":100000008164369,
+      "asset_id":100000008164369,
+      "source":"New York Times",
+      "published_date":"2022-01-19",
+      "updated":"2022-01-24 23:35:54",
+      "section":"Well",
+      "subsection":"",
+      "nytdsection":"well",
+      "adx_keywords":"Exercise;Biorhythms;Diabetes;Weight;Muscles;Cell Metabolism (Journal)",
+      "column":null,
+      "byline":"By Gretchen Reynolds",
+      "type":"Article",
+      "title":"Is It Better to Exercise in the Morning or Evening?",
+      "abstract":"Working out at different times of the day might have unique benefits for health, an ambitious new study in mice suggests.",
+      "des_facet":[
+        "Exercise",
+        "Biorhythms",
+        "Diabetes",
+        "Weight",
+        "Muscles"
+      ],
+      "org_facet":[
+        "Cell Metabolism (Journal)"
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"Victor Moriyama for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/19/well/19sci-physed-morn-2/19sci-physed-morn-2-thumbStandard-v2.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/19/well/19sci-physed-morn-2/19sci-physed-morn-2-mediumThreeByTwo210-v2.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/19/well/19sci-physed-morn-2/19sci-physed-morn-2-mediumThreeByTwo440-v2.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/827f0d2f-f81c-5cbf-9496-3908947777bb",
+      "url":"https://www.nytimes.com/2022/01/24/business/media/biden-peter-doocy-fox.html",
+      "id":100000008173805,
+      "asset_id":100000008173805,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-25 07:41:01",
+      "section":"Business",
+      "subsection":"Media",
+      "nytdsection":"business",
+      "adx_keywords":"News and News Media;Television;United States Politics and Government;Biden, Joseph R Jr;Doocy, Peter;Fox News Channel",
+      "column":null,
+      "byline":"By Michael M. Grynbaum",
+      "type":"Article",
+      "title":"Caught on a Hot Mic: Biden Uses a Vulgarity to Insult a Fox News Reporter",
+      "abstract":"The president later called Peter Doocy and “cleared the air,” Mr. Doocy said.",
+      "des_facet":[
+        "News and News Media",
+        "Television",
+        "United States Politics and Government"
+      ],
+      "org_facet":[
+        "Fox News Channel"
+      ],
+      "per_facet":[
+        "Biden, Joseph R Jr",
+        "Doocy, Peter"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"President Biden complained on Monday at the start of a cabinet meeting that reporters should ask questions about the topic at hand rather than about unrelated foreign policy.",
+          "copyright":"Al Drago for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/multimedia/24economy-briefing-biden/24economy-briefing-biden-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/multimedia/24economy-briefing-biden/24economy-briefing-biden-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/multimedia/24economy-briefing-biden/24economy-briefing-biden-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/528c724f-bf40-572d-9a2f-ac6bf0626cf1",
+      "url":"https://www.nytimes.com/es/2022/01/24/espanol/opinion/covid-variantes-omicron.html",
+      "id":100000008171334,
+      "asset_id":100000008171334,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-24 10:57:43",
+      "section":"en Español",
+      "subsection":"Opinión",
+      "nytdsection":"en español",
+      "adx_keywords":"Coronavirus (2019-nCoV);Disease Rates;Politics and Government;Third World and Developing Countries;Coronavirus Omicron Variant;Coronavirus Delta Variant;Vaccination and Immunization;Tests (Medical)",
+      "column":null,
+      "byline":"By John Nkengasong",
+      "type":"Article",
+      "title":"Habrá otra variante del coronavirus. El mundo debe estar preparado",
+      "abstract":"Es imposible que un solo país acabe con la pandemia de COVID-19 por su cuenta: debemos actuar globalmente siguiendo estas medidas.",
+      "des_facet":[
+        "Coronavirus (2019-nCoV)",
+        "Disease Rates",
+        "Politics and Government",
+        "Third World and Developing Countries",
+        "Coronavirus Omicron Variant",
+        "Coronavirus Delta Variant",
+        "Vaccination and Immunization",
+        "Tests (Medical)"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"Danielle Chenette",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/20/opinion/20Nkengasong/20Nkengasong-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/20/opinion/20Nkengasong/20Nkengasong-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/20/opinion/20Nkengasong/20Nkengasong-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/e867aac6-1a0c-5c48-9a2d-98040dd58bb3",
+      "url":"https://www.nytimes.com/2022/01/24/science/james-webb-telescope-arrival.html",
+      "id":100000008169561,
+      "asset_id":100000008169561,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-27 09:58:33",
+      "section":"Science",
+      "subsection":"",
+      "nytdsection":"science",
+      "adx_keywords":"James Webb Space Telescope;Space and Astronomy;Rocket Science and Propulsion;Telescopes and Observatories;National Aeronautics and Space Administration",
+      "column":null,
+      "byline":"By Joey Roulette",
+      "type":"Article",
+      "title":"After Million-Mile Journey, James Webb Telescope Reaches Destination",
+      "abstract":"The telescope’s safe arrival is a relief to scientists who plan to spend the next 10 or more years using it to study ancient galaxies.",
+      "des_facet":[
+        "James Webb Space Telescope",
+        "Space and Astronomy",
+        "Rocket Science and Propulsion",
+        "Telescopes and Observatories"
+      ],
+      "org_facet":[
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet":[
+
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"An artist’s impression of the James Webb Space Telescope, which arrived at the second Lagrange point as it orbits the sun alongside Earth, a million miles away.",
+          "copyright":"Adriana Manrique Gutierrez/NASA",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/science/24webb1/24webb1-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/science/24webb1/24webb1-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/science/24webb1/24webb1-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/4cf8c2d7-16eb-5c80-a4d8-4dfd0815e88c",
+      "url":"https://www.nytimes.com/2022/01/24/business/sarah-palin-covid.html",
+      "id":100000008172772,
+      "asset_id":100000008172772,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-25 15:12:04",
+      "section":"Business",
+      "subsection":"",
+      "nytdsection":"business",
+      "adx_keywords":"Coronavirus (2019-nCoV);Libel and Slander;News and News Media;Suits and Litigation (Civil);First Amendment (US Constitution);Palin, Sarah;New York Times",
+      "column":null,
+      "byline":"By Jeremy W. Peters",
+      "type":"Article",
+      "title":"Sarah Palin Tests Positive, Delaying Libel Case Against The Times",
+      "abstract":"Jed S. Rakoff, the judge in the trial, said it would now begin on Feb. 3, after three positive test results for Ms. Palin.",
+      "des_facet":[
+        "Coronavirus (2019-nCoV)",
+        "Libel and Slander",
+        "News and News Media",
+        "Suits and Litigation (Civil)",
+        "First Amendment (US Constitution)"
+      ],
+      "org_facet":[
+        "New York Times"
+      ],
+      "per_facet":[
+        "Palin, Sarah"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Sarah Palin in 2016. The trial in her lawsuit against The New York Times was scheduled to start on Monday.",
+          "copyright":"Hilary Swift for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/business/24economy-briefing-palin-trial/24economy-briefing-palin-trial-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/business/24economy-briefing-palin-trial/merlin_126056651_a041738d-721c-4a2e-86eb-5da85ee64cb8-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/business/24economy-briefing-palin-trial/merlin_126056651_a041738d-721c-4a2e-86eb-5da85ee64cb8-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/fdebed39-eb2f-57c1-9bea-79f4e8209895",
+      "url":"https://www.nytimes.com/2022/01/25/nyregion/alpo-martinez-death.html",
+      "id":100000008153856,
+      "asset_id":100000008153856,
+      "source":"New York Times",
+      "published_date":"2022-01-25",
+      "updated":"2022-01-27 12:18:23",
+      "section":"New York",
+      "subsection":"",
+      "nytdsection":"new york",
+      "adx_keywords":"Witness Protection Program (US);Murders, Attempted Murders and Homicides;Drug Abuse and Traffic;Cocaine and Crack Cocaine;Martinez, Alpo;Lewiston (Me);Harlem (Manhattan, NY)",
+      "column":null,
+      "byline":"By Ali Watkins",
+      "type":"Article",
+      "title":"He Was in Witness Protection in Maine. But His Harlem Life Kept Calling.",
+      "abstract":"In Lewiston, Maine, a man who called himself Abraham helped his neighbors with the trash and rode dirt bikes with his friend. His old life in New York City got him killed.",
+      "des_facet":[
+        "Witness Protection Program (US)",
+        "Murders, Attempted Murders and Homicides",
+        "Drug Abuse and Traffic",
+        "Cocaine and Crack Cocaine"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+        "Martinez, Alpo"
+      ],
+      "geo_facet":[
+        "Lewiston (Me)",
+        "Harlem (Manhattan, NY)"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Alberto (Alpo) Martinez was one of the most notorious drug dealers in New York in the 1980s. But the federal witness protection program brought him to a quiet city in Maine.",
+          "copyright":"via Nik Pappaconstantine",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/nyregion/25alpo-02/25alpo-02-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/nyregion/25alpo-02/25alpo-02-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/nyregion/25alpo-02/25alpo-02-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/4df92d0c-ed8a-5d4f-b2e0-7b650b543d7b",
+      "url":"https://www.nytimes.com/2022/01/24/opinion/russia-ukraine-putin-biden.html",
+      "id":100000008167269,
+      "asset_id":100000008167269,
+      "source":"New York Times",
+      "published_date":"2022-01-24",
+      "updated":"2022-01-24 23:18:42",
+      "section":"Opinion",
+      "subsection":"",
+      "nytdsection":"opinion",
+      "adx_keywords":"War and Armed Conflicts;Biden, Joseph R Jr;Putin, Vladimir V;European Union;North Atlantic Treaty Organization;Crimea (Ukraine);Eastern Europe;Europe;Russia;Ukraine",
+      "column":null,
+      "byline":"By Fiona Hill",
+      "type":"Article",
+      "title":"Putin Has the U.S. Right Where He Wants It",
+      "abstract":"Vladimir Putin’s aim is bigger than closing NATO’s “open door” to Ukraine and taking more territory.",
+      "des_facet":[
+        "War and Armed Conflicts"
+      ],
+      "org_facet":[
+        "European Union",
+        "North Atlantic Treaty Organization"
+      ],
+      "per_facet":[
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet":[
+        "Crimea (Ukraine)",
+        "Eastern Europe",
+        "Europe",
+        "Russia",
+        "Ukraine"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"",
+          "copyright":"Illustration by Shoshana Schultz/The New York Times; photographs by Aurelien Meunier, Chip Somodevilla, Mikhail Svetlov, Ira Wyman via Getty Images",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/opinion/00hill/00hill-thumbStandard.png",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/opinion/00hill/00hill-mediumThreeByTwo210.png",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/24/opinion/00hill/00hill-mediumThreeByTwo440.png",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/74da1e4d-dc7b-5ef6-9ae2-05d93c456b4a",
+      "url":"https://www.nytimes.com/article/russia-ukraine-nato-europe.html",
+      "id":100000008150706,
+      "asset_id":100000008150706,
+      "source":"New York Times",
+      "published_date":"2022-01-10",
+      "updated":"2022-01-26 16:26:15",
+      "section":"World",
+      "subsection":"Europe",
+      "nytdsection":"world",
+      "adx_keywords":"Defense and Military Forces;United States International Relations;Embargoes and Sanctions;Biden, Joseph R Jr;Putin, Vladimir V;European Union;North Atlantic Treaty Organization;Ukraine;Russia;Kazakhstan;Belarus;Geneva (Switzerland)",
+      "column":null,
+      "byline":"By Dan Bilefsky",
+      "type":"Article",
+      "title":"Can the West Stop Russia From Invading Ukraine?",
+      "abstract":"The United States, NATO and Russia have been engaged in a whirlwind of diplomacy aimed at averting the largest military action in Europe since World War II. Here’s a guide to what’s at stake.",
+      "des_facet":[
+        "Defense and Military Forces",
+        "United States International Relations",
+        "Embargoes and Sanctions"
+      ],
+      "org_facet":[
+        "European Union",
+        "North Atlantic Treaty Organization"
+      ],
+      "per_facet":[
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet":[
+        "Ukraine",
+        "Russia",
+        "Kazakhstan",
+        "Belarus",
+        "Geneva (Switzerland)"
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"A Ukrainian soldier patrolling the front lines in Avdiivka, Ukraine, on Dec. 2. Tensions between Ukraine and Russia have been simmering since 2014.",
+          "copyright":"Brendan Hoffman for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2021/12/07/us/politics/09ukraine-explainer1-sub/07biden-putin-summit-shelling-2-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2021/12/07/us/politics/09ukraine-explainer1-sub/07biden-putin-summit-shelling-2-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2021/12/07/us/politics/09ukraine-explainer1-sub/07biden-putin-summit-shelling-2-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    },
+    {
+      "uri":"nyt://article/82f3037b-d92c-504e-be18-b6f1d90e3458",
+      "url":"https://www.nytimes.com/2022/01/25/sports/tennis/nadal-shapovalov-australian-open.html",
+      "id":100000008174221,
+      "asset_id":100000008174221,
+      "source":"New York Times",
+      "published_date":"2022-01-25",
+      "updated":"2022-01-26 11:48:15",
+      "section":"Sports",
+      "subsection":"Tennis",
+      "nytdsection":"sports",
+      "adx_keywords":"Tennis;Australian Open (Tennis);Officiating (Sports);Nadal, Rafael;Shapovalov, Denis (1999- )",
+      "column":null,
+      "byline":"By Christopher Clarey",
+      "type":"Article",
+      "title":"Rafael Nadal Prevails After Five Sets and Charge of Favoritism",
+      "abstract":"Nadal beat Denis Shapovalov to reach the semifinals, then rejected his opponent’s complaints about unfairness, saying, “I think he’s wrong.”",
+      "des_facet":[
+        "Tennis",
+        "Australian Open (Tennis)",
+        "Officiating (Sports)"
+      ],
+      "org_facet":[
+
+      ],
+      "per_facet":[
+        "Nadal, Rafael",
+        "Shapovalov, Denis (1999- )"
+      ],
+      "geo_facet":[
+
+      ],
+      "media":[
+        {
+          "type":"image",
+          "subtype":"photo",
+          "caption":"Rafael Nadals victory left his opponent, Denis Shapovalov, fuming about fair play.",
+          "copyright":"Alana Holmberg for The New York Times",
+          "approved_for_syndication":1,
+          "media-metadata":[
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/sports/25aus-nadal-light/merlin_200853882_c23c0e31-1a6c-4654-95d5-b14b6a365d97-thumbStandard.jpg",
+              "format":"Standard Thumbnail",
+              "height":75,
+              "width":75
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/sports/25aus-nadal-light/merlin_200853882_c23c0e31-1a6c-4654-95d5-b14b6a365d97-mediumThreeByTwo210.jpg",
+              "format":"mediumThreeByTwo210",
+              "height":140,
+              "width":210
+            },
+            {
+              "url":"https://static01.nyt.com/images/2022/01/25/sports/25aus-nadal-light/merlin_200853882_c23c0e31-1a6c-4654-95d5-b14b6a365d97-mediumThreeByTwo440.jpg",
+              "format":"mediumThreeByTwo440",
+              "height":293,
+              "width":440
+            }
+          ]
+        }
+      ],
+      "eta_id":0
+    }
+  ]
+}
