@@ -4,10 +4,10 @@ A simple app to hit the NY Times Most Popular Articles API and show a list of ar
 
 <br>
 <p align="center">
-    <img src="sc_shot_dark_1.jpg" width="250"/>
-    <img src="sc_shot_dark_2.jpg" width="250"/>
-    <img src="sc_shot_light_1.jpg" width="250"/>
-    <img src="sc_shot_light_2.jpg" width="250"/>
+    <img src="sc_shot_dark_1.png" width="250"/>
+    <img src="sc_shot_dark_2.png" width="250"/>
+    <img src="sc_shot_light_1.png" width="250"/>
+    <img src="sc_shot_light_2.png" width="250"/>
     
 </p>
 <br>
